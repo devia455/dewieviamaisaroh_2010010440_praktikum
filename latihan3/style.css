@@ -1,0 +1,30 @@
+h1 {
+    color: orange;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.kotak{
+    padding: 50px;
+    background:mediumblue;
+    width: 100px;
+    height: 50px;
+    color:#fff;
+    margin: 10px;
+    float:left
+}
+.dua{
+    background: rgb(164, 122, 175);
+}
+.empat{
+    background: pink;
+    color: black;
+}
+#kotak{
+    padding: 50px;
+    background:orange;
+    width: 100px;
+    height: 50px;
+    color:#fff;
+    margin: 10px;
+    float:left   
+}

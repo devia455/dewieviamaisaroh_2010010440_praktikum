@@ -1,0 +1,34 @@
+body { margin:0; padding:0; }
+.wrap {
+    width:980px;
+    margin:0 auto;
+   }
+.header {
+    height:140px;
+    margin-bottom:15px;
+    background-color:#0d7963;
+    color:#fff;
+}
+.content {
+    width:690px;
+    height:450px;
+    background-color:#0d7963;
+    float:left;
+    color:#fff;
+   }
+   .sidebar {
+    width:275px;
+    height:450px;
+    background-color:#0d7963;
+    float:right;
+    color:#fff;
+   }
+   .clear {
+    clear:both;
+   }
+   .footer {
+    height:70px;
+    margin-top:15px;
+    background-color:#0d7963;
+    color:#fff;
+}
